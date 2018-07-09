@@ -3,3 +3,5 @@
 
 # GeoGuide Homepage
 This is GeoGuide homepage
+
+![Thumbnail](/uploads/imgs/thumbnail.png "Thumbnail"){.align-center}
