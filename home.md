@@ -1,7 +1,8 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: GeoGuide -->
+<!-- SUBTITLE: Applied Geoscience Knowledge -->
 
-# GeoGuide Homepage
-This is GeoGuide homepage
+# GeoGuide
+![Thumbnail](/uploads/imgs/thumbnail.png "Thumbnail"){.align-left}
 
-![Thumbnail](/uploads/imgs/thumbnail.png "Thumbnail"){.align-center}
+_**GeoGuide**_ is a knowledge management system which acts as a means to capture geoscience application workflows for exploration professionals to facilitate knowledge sharing. The content is authored and validated by support professionals, to establish a valuable Exploration business asset over the long-term. Documents and videos conform to uniform formatting, layout and quality control guidelines.
+
